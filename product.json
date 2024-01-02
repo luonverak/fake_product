@@ -26,6 +26,7 @@
       "closure_type": "Zipper"
     },
     "category": "Men Clothes",
+    "rate": 3.4,
     "brand": "Angelo",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -54,9 +55,10 @@
       "fabric_type": "100% Cotton",
       "care_instructions": "Machine Wash",
       "origin": "Imported",
-      "neck_style": "Collared Neck"
+      "closure_type": "Collared Neck"
     },
     "category": "Men Clothes",
+    "rate": 3.2,
     "brand": "Angelo",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -79,12 +81,13 @@
     "service": "Pay delivery",
     "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H5a9ea37ce1d34ef88cb0eb616afb8b63b.webp?alt=media&token=380a3118-d6e7-4080-8d54-3a8310d7a5b4",
     "specific_detail": {
-      "length": "Full Length",
-      "style": "Casual",
-      "sample_delivery": "15-25day",
-      "jeans_style": "Harem Pants"
+      "fabric_type": "56% Cotton, 44% Polyester",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Zipper"
     },
     "category": "Women Clothes",
+    "rate": 2.4,
     "brand": "Loda",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -116,6 +119,7 @@
       "closure_type": "Pull On"
     },
     "category": "Women Clothes",
+    "rate": 3,
     "brand": "Loda",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -147,6 +151,7 @@
       "closure_type": "Zipper"
     },
     "category": "Women Clothes",
+    "rate": 3.8,
     "brand": "Loda",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -177,6 +182,7 @@
       "closure_type": "Pull On"
     },
     "category": "Both Clothes",
+    "rate": 3.2,
     "brand": "Soduti",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -208,6 +214,7 @@
       "closure_type": "Pull On"
     },
     "category": "Men Clothes",
+    "rate": 2.4,
     "brand": "Soduti",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -220,18 +227,18 @@
     "dicount": 0,
     "preview": [
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61cKhLns6GL._AC_SY741_.jpg?alt=media&token=30bce306-a652-432f-8d79-80cfdb28b7c0",
-      "images/C_SY741_.jpg",
-      "images/61IFcnlQ5IL._AC_SX569_.jpg",
-      "images/61M2dXGEYSL._AC_SY741_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61IFcnlQ5IL._AC_SX569_.jpg?alt=media&token=daf09076-9466-46df-9f78-b7558d985d1d",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61M2dXGEYSL._AC_SY741_.jpg?alt=media&token=9c4d300f-c30b-4e14-bf56-1f46b5f20da7",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61Hl%2B8NjE9L._AC_SY741_.jpg?alt=media&token=893a51e3-5389-4b23-994d-9a5e7151ac00"
     ],
     "color": [
-      "images/61giB4uqFPL._AC_SY741_.jpg",
-      "images/61jdwZbMoqL._AC_SY741_.jpg",
-      "images/61tvrbY69wL._AC_SY741_.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61giB4uqFPL._AC_SY741_.jpg?alt=media&token=9bfe3909-aafa-4cca-aec7-56f987680a14",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61jdwZbMoqL._AC_SY741_.jpg?alt=media&token=9e65cfcd-6504-43a0-aa8a-6716a5de0120",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61tvrbY69wL._AC_SY741_.jpg?alt=media&token=2d45323f-d5cf-4052-8877-e3a33d2e2eb1",
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/Y741_.jpg?alt=media&token=d4fab67b-6e81-45f2-ba68-4179d318d605"
     ],
     "service": "Free delivery",
-    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61cKhLns6GL._AC_SY741_.jpg?alt=media&token=30bce306-a652-432f-8d79-80cfdb28b7c0",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61IFcnlQ5IL._AC_SX569_.jpg?alt=media&token=daf09076-9466-46df-9f78-b7558d985d1d",
     "specific_detail": {
       "fabric_type": "Cotton(50%), Polyester(50%)",
       "care_instructions": "Machine Wash",
@@ -239,6 +246,7 @@
       "closure_type": "Pull On"
     },
     "category": "Men Clothes",
+    "rate": 3.5,
     "brand": "Soduti",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -250,19 +258,19 @@
     "price": 15,
     "dicount": 0,
     "preview": [
-      "images/91zVXoW6t7L._AC_SX679_-1.jpg",
-      "images/91YeRxTYFSL._AC_SX679_.jpg",
-      "images/91knuPRf2WL._AC_SX679_.jpg",
-      "images/91PjDU5-YBL._AC_SX679_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91zVXoW6t7L._AC_SX679_-1.jpg?alt=media&token=5b94f7ae-af2a-43c1-b7af-ec726946d28d",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91YeRxTYFSL._AC_SX679_.jpg?alt=media&token=05dd9362-aafa-4324-90ca-97571bcd2187",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91knuPRf2WL._AC_SX679_.jpg?alt=media&token=de111b53-e91d-47a3-a0ae-0927737cc374",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91PjDU5-YBL._AC_SX679_.jpg?alt=media&token=cda1f9fa-e56a-4438-8463-d026b2affd85"
     ],
     "color": [
-      "images/91XbIS88vZL._AC_SX679_.jpg",
-      "images/81QQ0WLbaKL._AC_SX679_-1.jpg",
-      "images/814flLMymiL._AC_SX679_.jpg",
-      "images/91ZfEG8dM0L._AC_SX679_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91XbIS88vZL._AC_SX679_.jpg?alt=media&token=925505c2-cca9-4f03-bafe-6b56f5440ba9",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81QQ0WLbaKL._AC_SX679_.jpg?alt=media&token=7bea53e7-c755-4e71-be27-0472d9c62c6e",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/814flLMymiL._AC_SX679_.jpg?alt=media&token=564ea1f5-7253-4b5c-b7d1-5826353ca760",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91ZfEG8dM0L._AC_SX679_.jpg?alt=media&token=bf1c518b-f90d-4f76-aa5a-7e28f5398e36"
     ],
     "service": "Free delivery",
-    "image": "images/91zVXoW6t7L._AC_SX679_-1.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91zVXoW6t7L._AC_SX679_-1.jpg?alt=media&token=5b94f7ae-af2a-43c1-b7af-ec726946d28d",
     "specific_detail": {
       "fabric_type": "Cotton(50%), Polyester(50%)",
       "care_instructions": "Machine Wash",
@@ -270,6 +278,7 @@
       "closure_type": "Pull On"
     },
     "category": "Men Clothes",
+    "rate": 3.4,
     "brand": "Soduti",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
@@ -281,19 +290,19 @@
     "price": 25,
     "dicount": 5,
     "preview": [
-      "images/61wXHBhQdnL._AC_SX569_.jpg",
-      "images/81ssAQW2Z-L._AC_SX569_.jpg",
-      "images/61PYGgaECzL._AC_SX569_.jpg",
-      "images/EOIKL._AC_SX569_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61wXHBhQdnL._AC_SX569_.jpg?alt=media&token=67f2c467-0112-4b81-b9c0-2d69f435b020",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81ssAQW2Z-L._AC_SX569_.jpg?alt=media&token=c84a207e-a49a-4893-84b7-fbb02f077e67",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61PYGgaECzL._AC_SX569_.jpg?alt=media&token=aa0a6a99-d23f-4a96-b6d5-1250768b0f07",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/EOIKL._AC_SX569_.jpg?alt=media&token=aec31347-587c-4065-bfcd-2ded83f5fc84"
     ],
     "color": [
-      "images/61DO94WKq5L._AC_SX569_.jpg",
-      "images/61DYKnsPdgL._AC_SX569_.jpg",
-      "images/61hgZASzuWL._AC_SX569_.jpg",
-      "images/X569_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61DO94WKq5L._AC_SX569_.jpg?alt=media&token=2170dae4-abd4-4192-95bf-ca90111b7b96",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61DYKnsPdgL._AC_SX569_.jpg?alt=media&token=5f2fe74a-9833-48e4-af5d-e5103389b671",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61hgZASzuWL._AC_SX569_.jpg?alt=media&token=19c6ad63-fee3-41dc-a476-f68f4869d45f",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/X569_.jpg?alt=media&token=a3f1cee9-df9f-43c1-914f-5a1790d19022"
     ],
     "service": "Free delivery",
-    "image": "images/61wXHBhQdnL._AC_SX569_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61wXHBhQdnL._AC_SX569_.jpg?alt=media&token=67f2c467-0112-4b81-b9c0-2d69f435b020",
     "specific_detail": {
       "fabric_type": "Cotton(50%), Polyester(50%)",
       "care_instructions": "Machine Wash",
