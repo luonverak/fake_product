@@ -7,18 +7,18 @@
     "dicount": 2,
     "preview": [
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91Fr7K2wyBL._AC_SX679_.jpg?alt=media&token=6db205de-f567-467e-a779-9dc166480470",
-      "images/81tpV56rC9L._AC_SX679_.jpg",
-      "images/81p0XgqSGTL._AC_SX679_.jpg",
-      "images/81LgtEgjaSL._AC_SX679_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81tpV56rC9L._AC_SX679_.jpg?alt=media&token=91d295ae-9703-4a83-9d5b-bef3959fb9d4",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81p0XgqSGTL._AC_SX679_.jpg?alt=media&token=c9bd2395-e1c0-4f83-9cc3-60aed44373ff",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81LgtEgjaSL._AC_SX679_.jpg?alt=media&token=2fe9b803-a0cf-4bea-a267-c342b842dfeb"
     ],
     "color": [
-      "images/81LgtEgjaSL._AC_SX679_.jpg",
-      "images/818DZAoBd1L._AC_SY879_.jpg",
-      "images/91nY5rYEzaL._AC_SX679_.jpg",
-      "images/91BYYtoeDpL._AC_SY879_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81LgtEgjaSL._AC_SX679_.jpg?alt=media&token=2fe9b803-a0cf-4bea-a267-c342b842dfeb",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/818DZAoBd1L._AC_SY879_.jpg?alt=media&token=37a6eaa8-34af-4948-a47a-4bc7e9eb1319",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91nY5rYEzaL._AC_SX679_.jpg?alt=media&token=0f744b68-11ce-4dec-8525-933cb3bf7a7c",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91BYYtoeDpL._AC_SY879_.jpg?alt=media&token=bcfa076c-cbe7-4b9c-92a0-3e70fae541fe"
     ],
     "service": "Free delivery",
-    "image": "images/81LgtEgjaSL._AC_SX679_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81LgtEgjaSL._AC_SX679_.jpg?alt=media&token=2fe9b803-a0cf-4bea-a267-c342b842dfeb",
     "specific_detail": {
       "fabric_type": "56% Cotton, 44% Polyester",
       "care_instructions": "Machine Wash",
