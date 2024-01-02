@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "name": "Men's V-Neck Sweater",
+    "detail": "The Men's V-Neck Sweater is a versatile and stylish wardrobe staple designed to provide both warmth and sophistication. Crafted with meticulous attention to detail, this sweater combines comfort with a classic silhouette, making it suitable for various occasions.",
+    "price": 21.50,
+    "dicount": 2,
+    "preview": [
+      "images/91Fr7K2wyBL._AC_SX679_.jpg",
+      "images/81tpV56rC9L._AC_SX679_.jpg",
+      "images/81p0XgqSGTL._AC_SX679_.jpg",
+      "images/81LgtEgjaSL._AC_SX679_.jpg"
+    ],
+    "color": [
+      "images/81LgtEgjaSL._AC_SX679_.jpg",
+      "images/818DZAoBd1L._AC_SY879_.jpg",
+      "images/91nY5rYEzaL._AC_SX679_.jpg",
+      "images/91BYYtoeDpL._AC_SY879_.jpg"
+    ],
+    "service": "Free delivery",
+    "image": "images/81LgtEgjaSL._AC_SX679_.jpg",
+    "specific_detail": {
+      "fabric_type": "56% Cotton, 44% Polyester",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Zipper"
+    },
+    "category": "Men Clothes",
+    "brand": "Angelo",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 2,
+    "name": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt",
+    "detail": "The shirt features a regular fit, ensuring a comfortable and relaxed feel without appearing too loose or too tight. The regular fit makes it suitable for various body types, providing ease of movement and a classic silhouette. The long sleeves add an extra layer of sophistication, making it an ideal choice for both casual and semi-formal occasions.",
+    "price": 24,
+    "dicount": 0,
+    "preview": [
+      "images/AC_SY500_.jpg",
+      "images/61uDSNpArYS._AC_SX385_.jpg",
+      "images/81NkFSWlZrS._AC_SY500_.jpg",
+      "images/123AC_SY500_.jpg"
+    ],
+    "color": [
+      "images/123AC_SY500_.jpg",
+      "images/71vLjJiXjbL._AC_SX342_.jpg",
+      "images/71SJ5LQnVUS._AC_SX342_.jpg",
+      "images/71GMhZ2lLIL._AC_SX342_.jpg"
+    ],
+    "service": "Free delivery",
+    "image": "images/AC_SY500_.jpg",
+    "specific_detail": {
+      "fabric_type": "100% Cotton",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "neck_style": "Collared Neck"
+    },
+    "category": "Men Clothes",
+    "brand": "Angelo",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 3,
+    "name": "Womens Jeans",
+    "detail": "Women's Clothing Large Size Wide Leg Trousers High Waist Casual Straight Hole Denim Pant Loose Womens Jeans",
+    "price": 14,
+    "dicount": 0,
+    "preview": [
+      "images/H72772ad9ffbd4829bb0681a24d436892Y.webp",
+      "images/Hb0966266a2fc4e6ca6406cbc82d1d355E.webp",
+      "images/H2caba1fa0c384400aa7dcec02427806fj.webp",
+      "images/H5a9ea37ce1d34ef88cb0eb616afb8b63b.webp"
+    ],
+    "color": [
+      "images/Hb0966266a2fc4e6ca6406cbc82d1d355E.webp"
+    ],
+    "service": "Pay delivery",
+    "image": "images/Hcc5231c4ce7c4457ac77532efc6733bfS.webp",
+    "specific_detail": {
+      "length": "Full Length",
+      "style": "Casual",
+      "sample_delivery": "15-25day",
+      "jeans_style": "Harem Pants"
+    },
+    "category": "Women Clothes",
+    "brand": "Loda",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 4,
+    "name": "T Shirt Crop Top",
+    "detail": "Women's Clothing Large Size Wide Leg Trousers High Waist Casual Straight Hole Denim Pant Loose Womens Jeans",
+    "price": 20,
+    "dicount": 10,
+    "preview": [
+      "images/71virulZz4L._AC_SY550_.jpg",
+      "images/71ccgpfjrQL._AC_SY550_.jpg",
+      "images/SY550_.jpg",
+      "images/61Ax63ITJbL._AC_SY550_.jpg"
+    ],
+    "color": [
+      "images/71X8xAYU31L._AC_SY445_.jpg",
+      "images/713TPl0FwaL._AC_SY445_.jpg",
+      "images/71virulZz4L._AC_SY550_.jpg",
+      "images/71UuMcpJ3OL._AC_SY445_.jpg"
+    ],
+    "service": "Pay delivery",
+    "image": "images/71virulZz4L._AC_SY550_.jpg",
+    "specific_detail": {
+      "fabric_type": "Fabric:84%Polyester+16%Spandex,lightweight,buttery soft and super smooth with lots of stretch,incredibly comfortable and breathable,but not cheesy and sheer,perfect going out tops for slimming girls or oversize girls.",
+      "care_instructions": "Hand Wash Only",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Women Clothes",
+    "brand": "Loda",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 5,
+    "name": "Hoodie Sweatshirts",
+    "detail": "Enjoy the convenience of easy care. Machine washable and resistant to fading, our hoodie maintains its vibrant colors and soft texture even after multiple washes.Invest in the ComfortBlend™ Cozy Hoodie Sweatshirt – where comfort meets style, and every detail is crafted with your satisfaction in mind. Embrace warmth, embrace style, embrace the perfect hoodie experience.",
+    "price": 10,
+    "dicount": 5,
+    "preview": [
+      "images/91BtygoGN5L._AC_SX385_.jpg",
+      "images/91BtygoGN5L._AC_SX385_.jpg",
+      "images/81Jf4b2JmTL._AC_SY550_.jpg",
+      "images/71x8lcvIAYL._AC_SX342_.jpg"
+    ],
+    "color": [
+      "images/81TVT95zYQL._AC_SX385_.jpg",
+      "images/817MdLRidpL._AC_SX425_.jpg",
+      "images/91HnSePJKOL._AC_SX385_.jpg",
+      "images/81Bl70j37SL._AC_SX385_.jpg"
+    ],
+    "service": "Free delivery",
+    "image": "images/91BtygoGN5L._AC_SX385_.jpg",
+    "specific_detail": {
+      "fabric_type": "Shell: 56% Cotton, 44% Polyester; Lining: 100% Polyester",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Zipper"
+    },
+    "category": "Women Clothes",
+    "brand": "Loda",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 6,
+    "name": "Hiphop Hooded Pullover",
+    "detail": "Enjoy the convenience of easy care. Machine washable and resistant to fading, our hoodie maintains its vibrant colors and soft texture even after multiple washes.Invest in the ComfortBlend™ Cozy Hoodie Sweatshirt – where comfort meets style, and every detail is crafted with your satisfaction in mind. Embrace warmth, embrace style, embrace the perfect hoodie experience.",
+    "price": 30,
+    "dicount": 30,
+    "preview": [
+      "images/61fbnkofqLL._AC_SX679_.jpg",
+      "images/51vH4RULk3L._AC_SX679_.jpg",
+      "images/71lsW2C3TjL._AC_SY741_.jpg"
+    ],
+    "color": [
+      "images/61rwAFj44TL._AC_SX679_.jpg",
+      "images/61xL7n3TuRL._AC_SX679_.jpg",
+      "images/71BaWEGG6wL._AC_SX679_.jpg",
+      "images/61X6FjeP1bL._AC_SX679_.jpg"
+    ],
+    "service": "Pay delivery",
+    "image": "images/61fbnkofqLL._AC_SX679_.jpg",
+    "specific_detail": {
+      "fabric_type": "Cotton(50%), Polyester(50%)",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Both Clothes",
+    "brand": "Soduti",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 7,
+    "name": "Regular Fit Long Sleeve Shirt",
+    "detail": "Introducing our EleganceBlend Regular Fit Long Sleeve Shirt – the epitome of timeless style and comfort. Immerse yourself in a world where sophistication meets ease, as this meticulously crafted shirt seamlessly blends contemporary fashion with enduring elegance.",
+    "price": 20,
+    "dicount": 0,
+    "preview": [
+      "images/616-my6SUkL._AC_SX679_.jpg",
+      "images/61DMtP9TpDL._AC_SX679_.jpg",
+      "images/AC_SX679.jpg",
+      "images/71SJ5LQnVUS._AC_SX342_.jpg"
+    ],
+    "color": [
+      "images/71fZtgy2hSL._AC_SX679_.jpg",
+      "images/71xbFrWi4AL._AC_SX679_.jpg",
+      "images/611UzFbSBmL._AC_SX679_.jpg",
+      "images/61nH5i7q80L._AC_SX679_.jpg"
+    ],
+    "service": "Free delivery",
+    "image": "images/616-my6SUkL._AC_SX679_.jpg",
+    "specific_detail": {
+      "fabric_type": "Cotton(50%), Polyester(50%)",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Men Clothes",
+    "brand": "Soduti",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 8,
+    "name": "Pullover T Shirts",
+    "detail": "Enjoy the convenience of easy care. Machine washable and resistant to fading, our hoodie maintains its vibrant colors and soft texture even after multiple washes.Invest in the ComfortBlend™ Cozy Hoodie Sweatshirt – where comfort meets style, and every detail is crafted with your satisfaction in mind. Embrace warmth, embrace style, embrace the perfect hoodie experience.",
+    "price": 13,
+    "dicount": 0,
+    "preview": [
+      "images/61cKhLns6GL._AC_SY741_.jpg",
+      "images/C_SY741_.jpg",
+      "images/61IFcnlQ5IL._AC_SX569_.jpg",
+      "images/61M2dXGEYSL._AC_SY741_.jpg"
+    ],
+    "color": [
+      "images/61giB4uqFPL._AC_SY741_.jpg",
+      "images/61jdwZbMoqL._AC_SY741_.jpg",
+      "images/61tvrbY69wL._AC_SY741_.jpg",
+      "images/Y741_.jpg"
+    ],
+    "service": "Free delivery",
+    "image": "images/61cKhLns6GL._AC_SY741_.jpg",
+    "specific_detail": {
+      "fabric_type": "Cotton(50%), Polyester(50%)",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Men Clothes",
+    "brand": "Soduti",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 9,
+    "name": "Tri-Blend Crewneck Sweatshirt for Men",
+    "detail": "Enjoy the convenience of easy care. Machine washable and resistant to fading, our hoodie maintains its vibrant colors and soft texture even after multiple washes.Invest in the ComfortBlend™ Cozy Hoodie Sweatshirt – where comfort meets style, and every detail is crafted with your satisfaction in mind. Embrace warmth, embrace style, embrace the perfect hoodie experience.",
+    "price": 15,
+    "dicount": 0,
+    "preview": [
+      "images/91zVXoW6t7L._AC_SX679_-1.jpg",
+      "images/91YeRxTYFSL._AC_SX679_.jpg",
+      "images/91knuPRf2WL._AC_SX679_.jpg",
+      "images/91PjDU5-YBL._AC_SX679_.jpg"
+    ],
+    "color": [
+      "images/91XbIS88vZL._AC_SX679_.jpg",
+      "images/81QQ0WLbaKL._AC_SX679_-1.jpg",
+      "images/814flLMymiL._AC_SX679_.jpg",
+      "images/91ZfEG8dM0L._AC_SX679_.jpg"
+    ],
+    "service": "Free delivery",
+    "image": "images/91zVXoW6t7L._AC_SX679_-1.jpg",
+    "specific_detail": {
+      "fabric_type": "Cotton(50%), Polyester(50%)",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Men Clothes",
+    "brand": "Soduti",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  },
+  {
+    "id": 10,
+    "name": "Lusead Men's High Stretch Dress Shirt Wrinkle Free Long Sleeve Slim Fit Business Casual Button Down Shirt",
+    "detail": "Enjoy the convenience of easy care. Machine washable and resistant to fading, our hoodie maintains its vibrant colors and soft texture even after multiple washes.Invest in the ComfortBlend™ Cozy Hoodie Sweatshirt – where comfort meets style, and every detail is crafted with your satisfaction in mind. Embrace warmth, embrace style, embrace the perfect hoodie experience.",
+    "price": 25,
+    "dicount": 5,
+    "preview": [
+      "images/61wXHBhQdnL._AC_SX569_.jpg",
+      "images/81ssAQW2Z-L._AC_SX569_.jpg",
+      "images/61PYGgaECzL._AC_SX569_.jpg",
+      "images/EOIKL._AC_SX569_.jpg"
+    ],
+    "color": [
+      "images/61DO94WKq5L._AC_SX569_.jpg",
+      "images/61DYKnsPdgL._AC_SX569_.jpg",
+      "images/61hgZASzuWL._AC_SX569_.jpg",
+      "images/X569_.jpg"
+    ],
+    "service": "Free delivery",
+    "image": "images/61wXHBhQdnL._AC_SX569_.jpg",
+    "specific_detail": {
+      "fabric_type": "Cotton(50%), Polyester(50%)",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Men Clothes",
+    "brand": "Soduti",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
+  }
+]
