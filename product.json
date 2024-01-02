@@ -37,19 +37,19 @@
     "price": 24,
     "dicount": 0,
     "preview": [
-      "images/AC_SY500_.jpg",
-      "images/61uDSNpArYS._AC_SX385_.jpg",
-      "images/81NkFSWlZrS._AC_SY500_.jpg",
-      "images/123AC_SY500_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/AC_SY500_.jpg?alt=media&token=1104b948-f9a1-4b62-9141-4af8b2b93f76",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61uDSNpArYS._AC_SX385_.jpg?alt=media&token=e728e6b5-81fc-4452-94ff-4da6a8c039e7",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81NkFSWlZrS._AC_SY500_.jpg?alt=media&token=bcc04da4-aef7-4eb7-aaa9-2388465a68d2",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/123AC_SY500_.jpg?alt=media&token=c8826f02-b753-436d-b186-2d97346dae2ag"
     ],
     "color": [
-      "images/123AC_SY500_.jpg",
-      "images/71vLjJiXjbL._AC_SX342_.jpg",
-      "images/71SJ5LQnVUS._AC_SX342_.jpg",
-      "images/71GMhZ2lLIL._AC_SX342_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/123AC_SY500_.jpg?alt=media&token=c8826f02-b753-436d-b186-2d97346dae2a",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71vLjJiXjbL._AC_SX342_.jpg?alt=media&token=f6a47889-5f55-4a04-9d9f-b27bace4a8cd",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71SJ5LQnVUS._AC_SX342_.jpg?alt=media&token=4a83c3d2-4de8-47bc-a894-de5a3fcbace5",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71GMhZ2lLIL._AC_SX342_.jpg?alt=media&token=8135b01e-4e2c-4c40-b611-20daf9f66d84"
     ],
     "service": "Free delivery",
-    "image": "images/AC_SY500_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/123AC_SY500_.jpg?alt=media&token=c8826f02-b753-436d-b186-2d97346dae2a",
     "specific_detail": {
       "fabric_type": "100% Cotton",
       "care_instructions": "Machine Wash",
@@ -68,16 +68,16 @@
     "price": 14,
     "dicount": 0,
     "preview": [
-      "images/H72772ad9ffbd4829bb0681a24d436892Y.webp",
-      "images/Hb0966266a2fc4e6ca6406cbc82d1d355E.webp",
-      "images/H2caba1fa0c384400aa7dcec02427806fj.webp",
-      "images/H5a9ea37ce1d34ef88cb0eb616afb8b63b.webp"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H72772ad9ffbd4829bb0681a24d436892Y.webp?alt=media&token=8b6aab9d-eaf8-4ce1-9860-57a1bc68cb73",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/Hb0966266a2fc4e6ca6406cbc82d1d355E.webp?alt=media&token=d482eeaa-18ce-48e9-8fcb-075f47c10c43",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H2caba1fa0c384400aa7dcec02427806fj.webp?alt=media&token=8fd4554f-f765-48ae-a002-a8e6ac1b50dc",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H5a9ea37ce1d34ef88cb0eb616afb8b63b.webp?alt=media&token=380a3118-d6e7-4080-8d54-3a8310d7a5b4"
     ],
     "color": [
-      "images/Hb0966266a2fc4e6ca6406cbc82d1d355E.webp"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H5a9ea37ce1d34ef88cb0eb616afb8b63b.webp?alt=media&token=380a3118-d6e7-4080-8d54-3a8310d7a5b4"
     ],
     "service": "Pay delivery",
-    "image": "images/Hcc5231c4ce7c4457ac77532efc6733bfS.webp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H5a9ea37ce1d34ef88cb0eb616afb8b63b.webp?alt=media&token=380a3118-d6e7-4080-8d54-3a8310d7a5b4",
     "specific_detail": {
       "length": "Full Length",
       "style": "Casual",
