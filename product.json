@@ -127,19 +127,19 @@
     "price": 10,
     "dicount": 5,
     "preview": [
-      "images/91BtygoGN5L._AC_SX385_.jpg",
-      "images/91BtygoGN5L._AC_SX385_.jpg",
-      "images/81Jf4b2JmTL._AC_SY550_.jpg",
-      "images/71x8lcvIAYL._AC_SX342_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91BtygoGN5L._AC_SX385_.jpg?alt=media&token=711fcc80-8ef7-4b49-8b7d-c8a0941370b2",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81Jf4b2JmTL._AC_SY550_.jpg?alt=media&token=3ef1c579-3353-42f0-a057-a7c0341a90f8",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81BJ9050v6L._AC_SX342_.jpg?alt=media&token=f8ce0935-c1a6-407f-8ba7-dfcfa057d703",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71x8lcvIAYL._AC_SX342_.jpg?alt=media&token=969ef192-0f9d-464d-99b8-aa022786db7b"
     ],
     "color": [
-      "images/81TVT95zYQL._AC_SX385_.jpg",
-      "images/817MdLRidpL._AC_SX425_.jpg",
-      "images/91HnSePJKOL._AC_SX385_.jpg",
-      "images/81Bl70j37SL._AC_SX385_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81TVT95zYQL._AC_SX385_.jpg?alt=media&token=4d020465-c093-4ddd-8e88-0826ca9f7a60",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/817MdLRidpL._AC_SX425_.jpg?alt=media&token=30f286e3-f834-4450-9a9d-3f5852ab160d",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91HnSePJKOL._AC_SX385_.jpg?alt=media&token=b1068a01-6649-4d1c-be05-6319d95e6c49",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61ILCiRWdtL._AC_SX679_.jpg?alt=media&token=0d9d3ca8-66e9-4b23-8dc2-049f66affd49"
     ],
     "service": "Free delivery",
-    "image": "images/91BtygoGN5L._AC_SX385_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91BtygoGN5L._AC_SX385_.jpg?alt=media&token=711fcc80-8ef7-4b49-8b7d-c8a0941370b2",
     "specific_detail": {
       "fabric_type": "Shell: 56% Cotton, 44% Polyester; Lining: 100% Polyester",
       "care_instructions": "Machine Wash",
@@ -158,18 +158,18 @@
     "price": 30,
     "dicount": 30,
     "preview": [
-      "images/61fbnkofqLL._AC_SX679_.jpg",
-      "images/51vH4RULk3L._AC_SX679_.jpg",
-      "images/71lsW2C3TjL._AC_SY741_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61fbnkofqLL._AC_SX679_.jpg?alt=media&token=78676128-bff5-428c-b388-074d466b2784",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/51vH4RULk3L._AC_SX679_.jpg?alt=media&token=d14b7a6c-61b7-4a8b-94f5-f235213ce386",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71lsW2C3TjL._AC_SY741_.jpg?alt=media&token=10ec4eed-1834-455f-a360-fd405a4010da"
     ],
     "color": [
-      "images/61rwAFj44TL._AC_SX679_.jpg",
-      "images/61xL7n3TuRL._AC_SX679_.jpg",
-      "images/71BaWEGG6wL._AC_SX679_.jpg",
-      "images/61X6FjeP1bL._AC_SX679_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61rwAFj44TL._AC_SX679_.jpg?alt=media&token=f0d98ac0-b41d-4044-ba12-a3925504dfe2",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61xL7n3TuRL._AC_SX679_.jpg?alt=media&token=4a4d848f-4748-4ab1-bf8e-d0b86191e97e",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71BaWEGG6wL._AC_SX679_.jpg?alt=media&token=0ae94fca-4194-4f03-ae45-a22327013d7d",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61X6FjeP1bL._AC_SX679_.jpg?alt=media&token=9b68c91a-0520-48f5-a628-f660181d881a"
     ],
     "service": "Pay delivery",
-    "image": "images/61fbnkofqLL._AC_SX679_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61fbnkofqLL._AC_SX679_.jpg?alt=media&token=78676128-bff5-428c-b388-074d466b2784",
     "specific_detail": {
       "fabric_type": "Cotton(50%), Polyester(50%)",
       "care_instructions": "Machine Wash",
@@ -188,19 +188,19 @@
     "price": 20,
     "dicount": 0,
     "preview": [
-      "images/616-my6SUkL._AC_SX679_.jpg",
-      "images/61DMtP9TpDL._AC_SX679_.jpg",
-      "images/AC_SX679.jpg",
-      "images/71SJ5LQnVUS._AC_SX342_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/616-my6SUkL._AC_SX679_.jpg?alt=media&token=bfa07706-395f-4abd-bed0-5af7f3f0b1bd",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61DMtP9TpDL._AC_SX679_.jpg?alt=media&token=453f5cfc-c761-4cea-a4ed-27280cbe92b1",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/AC_SX679.jpg?alt=media&token=c02554a0-5a6d-4848-80b4-3ef4bdc57734",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71SJ5LQnVUS._AC_SX342_.jpg?alt=media&token=4a83c3d2-4de8-47bc-a894-de5a3fcbace5"
     ],
     "color": [
-      "images/71fZtgy2hSL._AC_SX679_.jpg",
-      "images/71xbFrWi4AL._AC_SX679_.jpg",
-      "images/611UzFbSBmL._AC_SX679_.jpg",
-      "images/61nH5i7q80L._AC_SX679_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71fZtgy2hSL._AC_SX679_.jpg?alt=media&token=1a160eb1-f243-4638-b012-e77c6d374f40",
+      "ihttps://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71xbFrWi4AL._AC_SX679_.jpg?alt=media&token=a551d561-d730-422f-9635-00ed78f380d5",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/611UzFbSBmL._AC_SX679_.jpg?alt=media&token=a67e11a3-8322-42f0-95e9-9ecd22e313a9",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61nH5i7q80L._AC_SX679_.jpg?alt=media&token=90d60e3c-60dc-403b-ae88-986d105127ed"
     ],
     "service": "Free delivery",
-    "image": "images/616-my6SUkL._AC_SX679_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/616-my6SUkL._AC_SX679_.jpg?alt=media&token=bfa07706-395f-4abd-bed0-5af7f3f0b1bd",
     "specific_detail": {
       "fabric_type": "Cotton(50%), Polyester(50%)",
       "care_instructions": "Machine Wash",
@@ -219,7 +219,7 @@
     "price": 13,
     "dicount": 0,
     "preview": [
-      "images/61cKhLns6GL._AC_SY741_.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61cKhLns6GL._AC_SY741_.jpg?alt=media&token=30bce306-a652-432f-8d79-80cfdb28b7c0",
       "images/C_SY741_.jpg",
       "images/61IFcnlQ5IL._AC_SX569_.jpg",
       "images/61M2dXGEYSL._AC_SY741_.jpg"
@@ -228,10 +228,10 @@
       "images/61giB4uqFPL._AC_SY741_.jpg",
       "images/61jdwZbMoqL._AC_SY741_.jpg",
       "images/61tvrbY69wL._AC_SY741_.jpg",
-      "images/Y741_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/Y741_.jpg?alt=media&token=d4fab67b-6e81-45f2-ba68-4179d318d605"
     ],
     "service": "Free delivery",
-    "image": "images/61cKhLns6GL._AC_SY741_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61cKhLns6GL._AC_SY741_.jpg?alt=media&token=30bce306-a652-432f-8d79-80cfdb28b7c0",
     "specific_detail": {
       "fabric_type": "Cotton(50%), Polyester(50%)",
       "care_instructions": "Machine Wash",
