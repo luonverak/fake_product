@@ -96,19 +96,19 @@
     "price": 20,
     "dicount": 10,
     "preview": [
-      "images/71virulZz4L._AC_SY550_.jpg",
-      "images/71ccgpfjrQL._AC_SY550_.jpg",
-      "images/SY550_.jpg",
-      "images/61Ax63ITJbL._AC_SY550_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71virulZz4L._AC_SY550_.jpg?alt=media&token=1c3c81dc-772a-4259-be0a-d6b0f1de8baa",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71ccgpfjrQL._AC_SY550_.jpg?alt=media&token=9d82688b-2ef7-4731-a3a6-6730b20820f5",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/SY550_.jpg?alt=media&token=4c6483cc-afe4-422c-ba72-086c0493a2a4",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61Ax63ITJbL._AC_SY550_.jpg?alt=media&token=f3e51551-d50f-485f-9ac4-c9ea06943f5a"
     ],
     "color": [
-      "images/71X8xAYU31L._AC_SY445_.jpg",
-      "images/713TPl0FwaL._AC_SY445_.jpg",
-      "images/71virulZz4L._AC_SY550_.jpg",
-      "images/71UuMcpJ3OL._AC_SY445_.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71X8xAYU31L._AC_SY445_.jpg?alt=media&token=2b416f94-ea60-47eb-894e-2bdb21eeec49",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/713TPl0FwaL._AC_SY445_.jpg?alt=media&token=a87b9c77-8bda-4522-97a8-a37e342dd468",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71QjWh-kpDL._AC_SY879_.jpg?alt=media&token=55baf0e6-94d5-4954-b944-949bdd10ba19",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71UuMcpJ3OL._AC_SY445_.jpg?alt=media&token=ec9e8c85-0dbf-4f4d-879f-c0d6489e89ac"
     ],
     "service": "Pay delivery",
-    "image": "images/71virulZz4L._AC_SY550_.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71virulZz4L._AC_SY550_.jpg?alt=media&token=1c3c81dc-772a-4259-be0a-d6b0f1de8baa",
     "specific_detail": {
       "fabric_type": "Fabric:84%Polyester+16%Spandex,lightweight,buttery soft and super smooth with lots of stretch,incredibly comfortable and breathable,but not cheesy and sheer,perfect going out tops for slimming girls or oversize girls.",
       "care_instructions": "Hand Wash Only",
