@@ -41,7 +41,7 @@
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/AC_SY500_.jpg?alt=media&token=1104b948-f9a1-4b62-9141-4af8b2b93f76",
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61uDSNpArYS._AC_SX385_.jpg?alt=media&token=e728e6b5-81fc-4452-94ff-4da6a8c039e7",
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81NkFSWlZrS._AC_SY500_.jpg?alt=media&token=bcc04da4-aef7-4eb7-aaa9-2388465a68d2",
-      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/123AC_SY500_.jpg?alt=media&token=c8826f02-b753-436d-b186-2d97346dae2ag"
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/123AC_SY500_.jpg?alt=media&token=c8826f02-b753-436d-b186-2d97346dae2a"
     ],
     "color": [
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/123AC_SY500_.jpg?alt=media&token=c8826f02-b753-436d-b186-2d97346dae2a",
@@ -310,6 +310,7 @@
       "closure_type": "Pull On"
     },
     "category": "Men Clothes",
+    "rate": 3.4,
     "brand": "Soduti",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
