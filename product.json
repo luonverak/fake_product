@@ -378,5 +378,37 @@
     "brand": "Apolu",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 13,
+    "name": "Women's Legging",
+    "detail": "This item is a slim-fit legging made from a midweight, compact cotton-viscose stretch material, providing extra flexibility. It has a close fit through the hip and thigh with a slight ease through the leg, creating a slim and flattering silhouette. The legging is designed as an essential wardrobe piece, suitable for various occasions such as daily activities, weekend outings, or lounging at home. The wide elastic pull-on waistband ensures comfort, and it has a 27 inseam with a 4 leg opening on a US size S.",
+    "price": 10,
+    "dicount": 10,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71YADli1XiL._AC_SY879_.jpg?alt=media&token=9b79eb9c-7169-4a4c-9e86-c06c9d66864c",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/714XFAMK2eL._AC_SY879_.jpg?alt=media&token=a1b17165-e9a5-4f50-8c0e-02c1610f5460",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71YADli1XiL._AC_SY879_.jpg?alt=media&token=9b79eb9c-7169-4a4c-9e86-c06c9d66864c",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91Uc2TO4xBL._AC_SX679_.jpg?alt=media&token=43405260-8f57-4e6a-9e86-3062fcf14807"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71jMmA%2BR%2BnS._AC_SY879_.jpg?alt=media&token=6b143ae1-a2da-4017-994d-da631e4a3211",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81h71M7ZuqS._AC_SY879_.jpg?alt=media&token=7baa1e63-2f52-4e00-857a-ebf5cc3028bb",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61bzYh8mtdL._AC_SY879_.jpg?alt=media&token=e6616c1a-1f07-47ea-b169-87d3f747ffbd",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71k0JPvn0TL._AC_SY879_.jpg?alt=media&token=f1fe5050-561d-4bae-9c17-705805ec372a"
+    ],
+    "service": "Pay delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71YADli1XiL._AC_SY879_.jpg?alt=media&token=9b79eb9c-7169-4a4c-9e86-c06c9d66864c",
+    "specific_detail": {
+      "fabric_type": "99% Cotton, 1% Elastane",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Zipper"
+    },
+    "category": "Women Clothes",
+    "rate": 4.5,
+    "brand": "Lingora",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
