@@ -346,5 +346,37 @@
     "brand": "Apolu",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 12,
+    "name": "Men's Inseam Stretch 5-Pocket Short",
+    "detail": "This item is a pair of straight-fit shorts designed to be worn at the waist. It is made from stretch twill a lightweight cotton fabric with a bit of elastane for comfort and flexibility. The shorts feature classic 5-pocket detailing similar to jeans including a front coin pocket. They have a zipper fly shank button closure at the waist, and rivet detailing. The inseam measures 9 inches on a US size 32 making them suitable and comfortable for various warm-weather activities.",
+    "price": 5,
+    "dicount": 0,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71vBvwnsVdL._AC_SY879_.jpg?alt=media&token=5fbb0eee-8e97-48fc-a286-fc1f8c4d71be",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71nVwEcEI-L._AC_SY879_.jpg?alt=media&token=989a2d6b-dbf2-42ce-b7c1-73d33f3b38ba",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81tmoCkEJnL._AC_SY879_.jpg?alt=media&token=af2e6419-c719-4d70-bd4e-75422cb0dd27",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91Uc2TO4xBL._AC_SX679_.jpg?alt=media&token=43405260-8f57-4e6a-9e86-3062fcf14807"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/711WGKlZHLL._AC_SY879_.jpg?alt=media&token=1017d841-184d-44ad-a75b-4e1b8ab59fa4",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71e900jPNPL._AC_SY879_.jpg?alt=media&token=5fe678bc-3191-47db-82ac-59a9d93e45a3",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71yd-Ibro7L._AC_SY879_.jpg?alt=media&token=a2de73b6-c5d4-4701-ab26-661cac8d9f20",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81Oqno%2BB11L._AC_SY879_.jpg?alt=media&token=6f306fc8-faf5-4933-89fe-728a2f33bd7e"
+    ],
+    "service": "Free delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71vBvwnsVdL._AC_SY879_.jpg?alt=media&token=5fbb0eee-8e97-48fc-a286-fc1f8c4d71be",
+    "specific_detail": {
+      "fabric_type": "99% Cotton, 1% Elastane",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Zipper"
+    },
+    "category": "Men Clothes",
+    "rate": 3.9,
+    "brand": "Apolu",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
