@@ -313,5 +313,34 @@
     "brand": "Soduti",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },{
+    "id": 11,
+    "name": "Men's Slim-Fit Jogger Pant",
+    "price": 15,
+    "dicount": 0,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61wXHBhQdnL._AC_SX569_.jpg?alt=media&token=67f2c467-0112-4b81-b9c0-2d69f435b020",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81ssAQW2Z-L._AC_SX569_.jpg?alt=media&token=c84a207e-a49a-4893-84b7-fbb02f077e67",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61PYGgaECzL._AC_SX569_.jpg?alt=media&token=aa0a6a99-d23f-4a96-b6d5-1250768b0f07",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/EOIKL._AC_SX569_.jpg?alt=media&token=aec31347-587c-4065-bfcd-2ded83f5fc84"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61DO94WKq5L._AC_SX569_.jpg?alt=media&token=2170dae4-abd4-4192-95bf-ca90111b7b96",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61DYKnsPdgL._AC_SX569_.jpg?alt=media&token=5f2fe74a-9833-48e4-af5d-e5103389b671",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61hgZASzuWL._AC_SX569_.jpg?alt=media&token=19c6ad63-fee3-41dc-a476-f68f4869d45f",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/X569_.jpg?alt=media&token=a3f1cee9-df9f-43c1-914f-5a1790d19022"
+    ],
+    "service": "Free delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61wXHBhQdnL._AC_SX569_.jpg?alt=media&token=67f2c467-0112-4b81-b9c0-2d69f435b020",
+    "specific_detail": {
+      "fabric_type": "Cotton(50%), Polyester(50%)",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Men Clothes",
+    "brand": "Soduti",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
