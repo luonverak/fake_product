@@ -630,5 +630,36 @@
     "brand": "Cacuka",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 21,
+    "name": "Women Sleepwear Cute Printing Pajama ",
+    "detail": "ntroducing Fullfill's Women's Sleep Tops, a perfect blend of style and comfort. Crafted from a breathable and quick-dry Polyester/Cotton blend, these knee-length tops are ideal for summer and spring seasons. The round neck design adds a touch of elegance, while the short sleeves enhance comfort. The digital printing technique ensures a vibrant and lasting pattern.",
+    "price": 7,
+    "dicount": 0,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H007b5c95afc54bdc9dc99e9b8e42ba3a8.webp?alt=media&token=59ba4c8d-e04b-4bc2-b2a9-21378971f28c",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H2dbe45aca3cc473c9184b9bac18c268a8.webp?alt=media&token=46d61faf-d513-47cd-ba1b-6b596a617c4b",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/Hd30e860ca6fd49158465893d76e7cf33T.webp?alt=media&token=b7373f2a-d4aa-4284-bf7e-a5fa2f79d6ec"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H09f5f47de2114ea1a2c0f7d72e3e1dd6p.webp?alt=media&token=6630b427-1ba0-409e-8b75-e5b4e75d7064",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H2202ab2553194c7484aab4c2fd1fbdfa8.webp?alt=media&token=f80e3da7-e613-4b25-9730-e32051f74adb",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H34fc9181ab7c49178f9d3bc1351a00b3H.webp?alt=media&token=a9558be4-58b9-43f8-92c6-4fb134d185bc",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/Hf3e36c803e8443218d18c83f913b1e2dC.webp?alt=media&token=27dbc9a2-1924-4918-86fb-d5d9dc412f39"
+    ],
+    "service": "Free delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/H007b5c95afc54bdc9dc99e9b8e42ba3a8.webp?alt=media&token=59ba4c8d-e04b-4bc2-b2a9-21378971f28c",
+    "specific_detail": {
+      "fabric_type": "100% Polyester",
+      "care_instructions": "Dry Clean Only",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Women Clothes",
+    "rate": 3.9,
+    "brand": "Cacuka",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
