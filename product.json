@@ -474,5 +474,34 @@
     "brand": "Lingora",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 16,
+    "name": "ASTR the label Women's Paola Top",
+    "detail": "This is a versatile tank top from the Staples by The Drop collection, designed by @lucyswhims. The models wearing the tank are 5'10\" (size S) and XXL, while Lucy is 5'5\" and wears a size XXS. The top measures 25\" in length and features a snug fit, emphasizing the body. Made from a fine viscose blend, it feels luxurious against the skin. The design includes a classic crew neckline and cutaway front and back armholes to highlight the shoulders. The tank can be tucked into jeans for a classic look or worn out for a longer, lean style that elongates the torso.",
+    "price": 18,
+    "dicount": 0.4,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91Yfx704enL._AC_SY879_.jpg?alt=media&token=ba262f6a-11bf-4160-8a00-e2da73b4e33c",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91WqTnOQ4vL._AC_SY879_.jpg?alt=media&token=119bdce5-c0f9-4cbe-aca3-9c7ada98cd22"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91A9-31FVxL._AC_SY879_.jpg?alt=media&token=8d65c0d7-1235-4e9d-a509-3b4706742772",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81-HSjn7DkL._AC_SY879_.jpg?alt=media&token=6aacf3ec-d659-4404-8019-693206474079",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81igMydps5L._AC_SY879_.jpg?alt=media&token=16586f2b-d941-484c-8d01-c821ec2ae991"
+    ],
+    "service": "Free delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91Yfx704enL._AC_SY879_.jpg?alt=media&token=ba262f6a-11bf-4160-8a00-e2da73b4e33c",
+    "specific_detail": {
+      "fabric_type": "65% Viscose, 35% Nylon",
+      "care_instructions": "Dry Clean Only",
+      "origin": "Imported",
+      "closure_type": "Zipper"
+    },
+    "category": "Women Clothes",
+    "rate": 3.5,
+    "brand": "Lingora",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
