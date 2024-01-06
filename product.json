@@ -410,5 +410,37 @@
     "brand": "Lingora",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 14,
+    "name": "Sweatpants Loose Comfy Casual Wide Leg Yoga",
+    "detail": "DIBAOLONG Women's Yoga Pants are made of lightweight and thick material, providing a soft and skin-friendly feel. The fleece-lined pants are warm, comfy, breathable, and easy to wash, making them ideal for fall and winter. Features include a straight leg design, high waist, elastic drawstring, open bottom, and wide leg, offering a slim and well-fitted look. The pants also have multi-functional pockets for convenient storage. Suitable for various activities like yoga, exercise, outdoor activities, running errands, and lounging, these versatile pants can be worn throughout the year and paired with casual outfits.",
+    "price": 7,
+    "dicount": 0,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71%2BRMj54G5L._AC_SY879_.jpg?alt=media&token=55220cfb-292b-4c91-8a0a-cbdb9ac467ff",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71QvveME2jL._AC_SY879_-1.jpg?alt=media&token=709c691d-6e5e-466a-96ac-420331126237",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71qeW9GsBzL._AC_SY879_.jpg?alt=media&token=4490f0bc-61da-44e3-b0dc-3c2e742837c8",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/814VqdCPdTL._AC_SY879_.jpg?alt=media&token=64fa86e1-4408-4038-abef-4bd1fd6e71e1"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61B2l3NICjL._AC_SY879_.jpg?alt=media&token=b014e7eb-dd1e-4708-a639-bc1484c5d23b",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71vIgldzwzL._AC_SY879_.jpg?alt=media&token=83e8d0aa-4f64-4092-a613-610b6edbc685",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61c6UClC7yL._AC_SY879_.jpg?alt=media&token=85c09b23-479b-433b-8dfa-57cedde22846",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61U4UNP9dKL._AC_SY879_.jpg?alt=media&token=d062c9dc-0a1a-4bbc-a138-ce57943ebfd4"
+    ],
+    "service": "Free delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71%2BRMj54G5L._AC_SY879_.jpg?alt=media&token=55220cfb-292b-4c91-8a0a-cbdb9ac467ff",
+    "specific_detail": {
+      "fabric_type": "80% Polyester,16% Cotton, 4% Spandex",
+      "care_instructions": "Machine Wash",
+      "origin": "Imported",
+      "closure_type": "Zipper"
+    },
+    "category": "Women Clothes",
+    "rate": 2.5,
+    "brand": "Lingora",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
