@@ -599,5 +599,36 @@
     "brand": "Angelo",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 20,
+    "name": "Long Sleeve Sweatshirt Pullovers",
+    "detail": "This 100% cotton graphic sweatshirt ensures exceptional comfort and durability, maintaining its shape over time. Its classic design effortlessly complements any outfit, making it a versatile wardrobe staple. The long sleeves and crewneck allow casual pairing with jeans, shorts, or sweatpants, suitable for various occasions in men's daily life. Prioritize the perfect fit by referring to the size chart before purchasing, ensuring optimal comfort and style.",
+    "price": 5,
+    "dicount": 0,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61J3q69D1HL._AC_SX679_.jpg?alt=media&token=7c8ad35d-59de-442b-9f92-479b86f57d06",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61x5ElqabfL._AC_SX679_.jpg?alt=media&token=956e36d4-4fbf-41a5-8c15-a08c7d63ab8d",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71PJMZvfRHL._AC_SX679_.jpg?alt=media&token=c7f580d4-142f-47ae-86d3-1ef60b9aa0bc",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81rMqjQA8QL._AC_SX679_.jpg?alt=media&token=7bd69357-94fb-43fa-b369-b927201990fc"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61HnOKFAICL._AC_SX679_.jpg?alt=media&token=ac238ffa-cbd7-414a-8482-7d9e5ebbef38",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61qooWkclML._AC_SX679_.jpg?alt=media&token=93e83bc5-7d39-4994-a17c-d4bb62a498f0",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61J3q69D1HL._AC_SX679_.jpg?alt=media&token=7c8ad35d-59de-442b-9f92-479b86f57d06"
+    ],
+    "service": "Pay delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61J3q69D1HL._AC_SX679_.jpg?alt=media&token=7c8ad35d-59de-442b-9f92-479b86f57d06",
+    "specific_detail": {
+      "fabric_type": "100% Polyester",
+      "care_instructions": "Dry Clean Only",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Men Clothes",
+    "rate": 2.9,
+    "brand": "Cacuka",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
