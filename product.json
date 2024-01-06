@@ -503,5 +503,37 @@
     "brand": "Lingora",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 17,
+    "name": "Calvin Klein Performance Women's Ribbed Crop Top",
+    "detail": "Experience unparalleled comfort and style with our Supportive 4-Way Stretch Ribbed Tank Top. The thin ribbed finish not only provides a smoothing effect but also offers a flexible and supportive fit in every direction. Stay cool and dry during your workouts with the moisture-wicking technology that efficiently draws away sweat. The dropped armhole design adds a trendy touch, allowing for unrestricted movement. Elevate your activewear collection with this tank top that effortlessly combines functionality and fashion.",
+    "price": 7,
+    "dicount": 10,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81gbQWxiL8L._AC_SX679_.jpg?alt=media&token=ee556566-5d5a-4dea-8d75-60727db52c9a",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61vGFJAH8oL._AC_SX679_.jpg?alt=media&token=a6a36fa7-775e-4cf3-a156-c68fad044ff0",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81eE7X0CZNL._AC_SX679_.jpg?alt=media&token=437af72e-83ad-4915-9cfc-ebdef158a264",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81As%2BXLvl0L._AC_SX679_.jpg?alt=media&token=238aaf41-5977-4f37-a7be-997df9898bd7"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71PprfbZ6ML._AC_SX679_.jpg?alt=media&token=d6b90a76-be41-4a61-a7e9-78414b77ba76",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81YOda0iYGL._AC_SX679_.jpg?alt=media&token=dd2287e3-99d5-4a25-9055-600866e42d0a",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81hT0Sld-uL._AC_SX679_.jpg?alt=media&token=d208e9ec-f03b-4255-8438-773ef7545fd6",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/819rdKxlHKL._AC_SX679_.jpg?alt=media&token=f3707c9c-5dfe-4873-9a46-0d35e9f0aedf"
+    ],
+    "service": "Free delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/81gbQWxiL8L._AC_SX679_.jpg?alt=media&token=ee556566-5d5a-4dea-8d75-60727db52c9a",
+    "specific_detail": {
+      "fabric_type": "65% Viscose, 35% Nylon",
+      "care_instructions": "Dry Clean Only",
+      "origin": "Imported",
+      "closure_type": "Zipper"
+    },
+    "category": "Women Clothes",
+    "rate": 3.5,
+    "brand": "Lingora",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
