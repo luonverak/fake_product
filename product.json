@@ -567,5 +567,37 @@
     "brand": "Angelo",
     "public_date": "12-12-2023",
     "create_date": "01-11-2023"
+  },
+  {
+    "id": 19,
+    "name": "Kenneth Cole Men's Modern Fit Stretch Dress Pant",
+    "detail": "Featuring a hook and eye closure, off-seam front pockets, single welt button-through back pockets, and a blind hem, these pants deliver a polished and refined look. The 100% Polyester fabric with moisture-wicking properties and a Flex Waistband enhances breathability, making them a wardrobe essential.",
+    "price": 15,
+    "dicount": 10,
+    "preview": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/51GByZHjO7L._AC_SX679_.jpg?alt=media&token=d8a168b9-a7c7-49a6-abc9-affcfc5bd85f",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/51RNxl56P4L._AC_SX679_.jpg?alt=media&token=0f631f2a-79c8-41a0-9a4d-503f2593cc5d",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/51r1BxleOEL._AC_SX679_.jpg?alt=media&token=557cfc2b-107f-4bb4-86d5-b27b534a3637",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/91%2BsYyfXJwL._AC_SX679_.jpg?alt=media&token=92a1c2c7-3cbc-4916-8a05-dbcbc9fc9c5a"
+    ],
+    "color": [
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/5169R7wWPAL._AC_SX679_.jpg?alt=media&token=03f309e2-e8e1-426c-8631-80af1090e321",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/517gEFC8whL._AC_SX679_.jpg?alt=media&token=26c0081f-6f62-4b02-a576-4ae6b648da0a",
+      "hhttps://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/51GByZHjO7L._AC_SX679_.jpg?alt=media&token=d8a168b9-a7c7-49a6-abc9-affcfc5bd85f",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/71fER7gSfYL._AC_SX679_.jpg?alt=media&token=269d41ab-54c3-4f2a-a4dc-c4da3b94977c"
+    ],
+    "service": "Free delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/51GByZHjO7L._AC_SX679_.jpg?alt=media&token=d8a168b9-a7c7-49a6-abc9-affcfc5bd85f",
+    "specific_detail": {
+      "fabric_type": "100% Polyester",
+      "care_instructions": "Dry Clean Only",
+      "origin": "Imported",
+      "closure_type": "Pull On"
+    },
+    "category": "Men Clothes",
+    "rate": 4.1,
+    "brand": "Angelo",
+    "public_date": "12-12-2023",
+    "create_date": "01-11-2023"
   }
 ]
