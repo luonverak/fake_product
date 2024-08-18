@@ -226,7 +226,7 @@
     "price": 13,
     "dicount": 0,
     "preview": [
-      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61cKhLns6GL._AC_SY741_.jpg?alt=media&token=30bce306-a652-432f-8d79-80cfdb28b7c0",
+      "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61IFcnlQ5IL._AC_SX569_.jpg?alt=media&token=daf09076-9466-46df-9f78-b7558d985d1d",
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61IFcnlQ5IL._AC_SX569_.jpg?alt=media&token=daf09076-9466-46df-9f78-b7558d985d1d",
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61M2dXGEYSL._AC_SY741_.jpg?alt=media&token=9c4d300f-c30b-4e14-bf56-1f46b5f20da7",
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61Hl%2B8NjE9L._AC_SY741_.jpg?alt=media&token=893a51e3-5389-4b23-994d-9a5e7151ac00"
@@ -238,7 +238,7 @@
       "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/Y741_.jpg?alt=media&token=d4fab67b-6e81-45f2-ba68-4179d318d605"
     ],
     "service": "Free delivery",
-    "image": "https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61IFcnlQ5IL._AC_SX569_.jpg?alt=media&token=daf09076-9466-46df-9f78-b7558d985d1d",
+    "image":"https://firebasestorage.googleapis.com/v0/b/xchart-7976c.appspot.com/o/61cKhLns6GL._AC_SY741_.jpg?alt=media&token=30bce306-a652-432f-8d79-80cfdb28b7c0" ,
     "specific_detail": {
       "fabric_type": "Cotton(50%), Polyester(50%)",
       "care_instructions": "Machine Wash",
